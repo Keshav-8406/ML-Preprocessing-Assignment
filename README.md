@@ -46,7 +46,7 @@ The dataset contains the following features:
 
 ## 📁 Project Structure
 
-* `ML-Preprocessing-Assignment` → Main notebook with complete solution
+* `ML-Preprocessing-Assignment.ipynb` → Main notebook with complete solution
 
 ---
 
