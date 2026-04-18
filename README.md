@@ -46,7 +46,7 @@ The dataset contains the following features:
 
 ## 📁 Project Structure
 
-* `ml_preprocessing.ipynb` → Main notebook with complete solution
+* `ML-Preprocessing-Assignment` → Main notebook with complete solution
 
 ---
 
@@ -68,7 +68,8 @@ The dataset contains the following features:
 ## 👨‍🎓 Author
 
 **Keshav Kaushik**
-B.Sc Computer Science (2nd Year)
+
+B.Sc Computer Science (IInd Year)
 
 ---
 
